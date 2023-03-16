@@ -3,7 +3,7 @@
 
 **Hola mi nombre es Cesar Medina Maya y soy nuevo en este mundo de la tecnologia y la programacion. El punto de construir esta pagina web es seguirme empujando a desarrollarme mas en este mundo de lo tech.**
 
-**En este blog planeo hablar de los siguientes temas:
+**En este blog planeo hablar de los siguientes temas:**
 
 *Gadgets
 *Conceptos que aprenda en el dia a dia sobre programacion
