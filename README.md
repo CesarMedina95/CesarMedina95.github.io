@@ -1,4 +1,4 @@
-# EL BLOG DE CESAR
+# Sobre mi
 
 
 **Hola mi nombre es Cesar Medina Maya y soy nuevo en este mundo de la tecnologia y la programacion. El punto de construir esta pagina web es seguirme empujando a desarrollarme mas en este mundo de lo tech.**
