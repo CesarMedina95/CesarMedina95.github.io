@@ -6,3 +6,5 @@ plugins:
   - jekyll-seo-tag
   plugins:
   - jekyll-feed
+plugins:
+  - jekyll-include-cache
