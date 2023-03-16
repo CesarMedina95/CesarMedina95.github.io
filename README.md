@@ -1,8 +1,12 @@
-# CesarMedina95.github.io
+# EL BLOG DE CESAR
 
-# This is my pretty cool webpage!
+# 
 
-My name is Cesar Medina and I grew up in Veracruz, Mexico and, as a consequence, I love to go the beach, play soccer and basketball, and the sound of the ocean.
+Hola my nombre es Cesar Medina Maya y soy nuevo en este mundo de la tecnologia y la programacion.
+
+El punto de construir esta pagina web es para seguirme empujando a desarrollarme mas en este mundo de lo tech.
+
+En este blog, planeo hablar de gadgets, de conceptos que aprenda en el dia a dia para seguir aprendiendo de manera mas interactiva
 
 ![](https://media.giphy.com/media/wVmVnHNvdHBPSWMB9r/giphy.gif)
 
