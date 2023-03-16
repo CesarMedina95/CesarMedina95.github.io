@@ -6,8 +6,11 @@
 **En este blog planeo hablar de los siguientes temas:**
 
 -Gadgets
+
 -Conceptos que aprenda en el dia a dia sobre programacion
+
 -Noticias del mundo tech
+
 -Mis proyectos de Data Science
 
 ![](https://media.giphy.com/media/lQDdDwdZpfYRn1MsJy/giphy.gif)
